@@ -16,4 +16,4 @@ num2=5
 a=addition(num1,num2)
 s=sub(num1,num2)
 m=mul(num1,num2)
-print("addtion = ",a,"\nSub = ",s,"\nmul = ",m)
+print("addtion = {} \nSub = {}\nmul = {}".format(a,s,m))
